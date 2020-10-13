@@ -1,3 +1,6 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "" 
+languageCode = "ja" 
+title = "My New Hugo Site" 
+theme = "learn"
+publishDir = "../docs" 
+relativeURLs = true
