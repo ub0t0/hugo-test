@@ -7,5 +7,5 @@ relativeURLs = true
 
 [params]
 #themeVariant = "red"
-themeVariant = "blue"
+#themeVariant = "blue"
 #themeVariant = "green"
